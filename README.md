@@ -1,4 +1,3 @@
-Program Description
 This program is written in Python and is designed to analyze and process a dataset containing information about used cars. Using this program, the following tasks are performed:
 
 Data Cleaning: Correcting or removing inaccurate data.
